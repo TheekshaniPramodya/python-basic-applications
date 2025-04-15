@@ -1,0 +1,6 @@
+Date,Product,Units Sold,Revenue,Category
+2024-01-01,Laptop,5,5000,Electronics
+2024-01-01,Mobile,10,3000,Electronics
+2024-01-02,Laptop,-2,-2000,Electronics
+2024-01-03,Headphones,8,800,Accessories
+2024-02-01,Mobile,12,3600,Electronics
